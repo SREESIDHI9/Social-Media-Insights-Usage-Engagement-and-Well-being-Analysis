@@ -14,12 +14,35 @@ To analyze the relationship between social media usage habits, engagement behavi
 
 ---
 
-Tools used:
+## Tools Used
 
-- Excel
-- Power BI
-- GitHub
+Microsoft Excel → Data Cleaning & Transformation
+Microsoft Power BI → Dashboard Creation
+GitHub → Project Documentation
 
+---
+## Dataset Used
+
+Three datasets were merged and transformed:
+
+Social Media Engagement Dataset
+Social Media Usage Dataset
+Social Media and Mental Health Dataset
+
+Source: Kaggle Dataset Platform
+
+---
+## Power BI Dashboard Features
+
+Created interactive dashboard with:
+
+KPI Cards
+Bar Charts
+Pie Charts
+Line Charts
+Slicers and Filters
+Drill Through Analysis
+Comparative Analysis Across Platforms
 ---
 
 ## Dashboard Preview
@@ -27,21 +50,27 @@ Tools used:
 ![Dashboard](screenshots/dashboard1.png)
 
 ---
-
-## Dataset
-
-Three datasets were merged:
-
-- Social Media Usage Dataset
-- Social Media Engagement Dataset
-- Mental Health Dataset
+## Key Insights
+Users spending more than 5 hours/day showed lower productivity
+Instagram and TikTok had highest engagement rates
+Increased screen time correlated with higher stress levels
+Younger age groups showed highest platform dependency
 
 ---
 
 ## Skills Demonstrated
+Data Cleaning
+Data Transformation
+Data Modeling
+ETL Process
+DAX Formulas
+Power Query
+Data Visualization
+Dashboard Design
+Business Intelligence
+Analytical Thinking
 
-- Data Cleaning
-- DAX
-- Power Query
+---
+
 - Data Visualization
 - Dashboard Building
