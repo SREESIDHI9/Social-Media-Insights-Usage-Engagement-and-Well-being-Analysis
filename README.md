@@ -1,5 +1,5 @@
 # Social-Media-Insights-Usage-Engagement-and-Well-being-Analysis
-Power BI dashboard analyzing social media engagement, usage patterns and mental health trends.
+Power BI Dashboard Analyzing Social Media Engagement, Usage Patterns and Mental Health Trends.
 
 
 ## Project Overview
