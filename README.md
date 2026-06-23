@@ -31,7 +31,8 @@ Created interactive dashboard with:
 
 ## Dashboard Preview
 
-![Dashboard Overview](Dashboardscreenshots/Social-media-insights-home-page)
+![Dashboard Screenshot](./Dashboard%20Screenshots/Brand_Engagement.png)
+
 
 
 ---
