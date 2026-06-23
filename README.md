@@ -20,9 +20,8 @@ To analyze the relationship between social media usage habits, engagement behavi
 
 Created interactive dashboard with:
 
-KPI Cards
-
-Bar Charts
+- KPI Cards
+* Bar Charts
 
 Pie Charts
 
