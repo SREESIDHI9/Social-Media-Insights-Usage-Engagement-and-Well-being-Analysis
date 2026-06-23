@@ -3,9 +3,9 @@ Power BI Dashboard Analyzing Social Media Engagement, Usage Patterns and Mental 
 
 
 ## Project Overview
-This project analyzes user behavior patterns across different social media platforms by combining engagement metrics, usage patterns, and mental health indicators.
-
-The dashboard was built using Microsoft Excel for Data Cleaning and Transformation and Microsoft Power BI for Visualization and Business Intelligence Reporting.
+A Comprehensive Data Analytics Project designed to examine how social media usage influences user engagement patterns and mental health outcomes. By merging multiple datasets and building an interactive Power BI dashboard, the analysis uncovers correlations between screen time, platform preferences, engagement intensity, and mental health indicators, enabling data-driven insights into modern digital behavior.
+The dashboard was built using,
+Microsoft Excel for Data Cleaning and Transformation and Microsoft Power BI for Visualization and Business Intelligence Reporting.
 
 ---
 ## Objective
@@ -14,24 +14,6 @@ To analyze the relationship between social media usage habits, engagement behavi
 
 ---
 
-## Tools Used
-
-Microsoft Excel → Data Cleaning & Transformation
-Microsoft Power BI → Dashboard Creation
-GitHub → Project Documentation
-
----
-## Dataset Used
-
-Three datasets were merged and transformed:
-
-Social Media Engagement Dataset
-Social Media Usage Dataset
-Social Media and Mental Health Dataset
-
-Source: Kaggle Dataset Platform
-
----
 ## Power BI Dashboard Features
 
 Created interactive dashboard with:
@@ -51,10 +33,10 @@ Comparative Analysis Across Platforms
 
 ---
 ## Key Insights
-Users spending more than 5 hours/day showed lower productivity
-Instagram and TikTok had highest engagement rates
-Increased screen time correlated with higher stress levels
-Younger age groups showed highest platform dependency
+Users spending more than 5 hours/day showed lower productivity.
+Instagram and TikTok had highest engagement rates.
+Increased screen time correlated with higher stress levels.
+Younger age groups showed highest platform dependency.
 
 ---
 
@@ -71,6 +53,11 @@ Business Intelligence
 Analytical Thinking
 
 ---
+## Tools Used
 
+Microsoft Excel → Data Cleaning & Transformation
+Microsoft Power BI → Dashboard Creation
+GitHub → Project Documentation
+----
 - Data Visualization
 - Dashboard Building
