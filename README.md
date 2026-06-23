@@ -31,12 +31,11 @@ Created interactive dashboard with:
 
 ## Dashboard Preview
 
+![Dashboard Screenshot](./Dashboard%20Screenshots/Social%20Media%20Insights%20Home%20Page.png)
+![Dashboard Screenshot](./Dashboard%20Screenshots/Gender_Occupation.png)
 ![Dashboard Screenshot](./Dashboard%20Screenshots/Brand%20Engagement.png)
-
-
-
-
-
+![Dashboard Screenshot](./Dashboard%20Screenshots/Users%20Across%20the%20Globe.png)
+![Dashboard Screenshot](./Dashboard%20Screenshots/Issues%20Due%20to%20Usage.png)
 
 ---
 ## Key Insights
