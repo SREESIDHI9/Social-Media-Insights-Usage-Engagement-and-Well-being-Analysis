@@ -31,7 +31,9 @@ Created interactive dashboard with:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./Dashboard%20Screenshots/Brand_Engagement.png)
+![Dashboard Screenshot](./Dashboard%20Screenshots/Brand%20Engagement.png)
+
+
 
 
 
