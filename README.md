@@ -31,7 +31,8 @@ Created interactive dashboard with:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard Overview](Dashboardscreenshots/Social-media-insights-home-page)
+
 
 ---
 ## Key Insights
