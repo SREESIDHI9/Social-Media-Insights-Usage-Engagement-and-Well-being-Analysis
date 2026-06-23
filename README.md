@@ -5,7 +5,7 @@ Power BI Dashboard Analyzing Social Media Engagement, Usage Patterns and Mental 
 ## Project Overview
 This project analyzes user behavior patterns across different social media platforms by combining engagement metrics, usage patterns, and mental health indicators.
 
-The dashboard was built using Microsoft Excel for data cleaning and transformation and Microsoft Power BI for visualization and business intelligence reporting.
+The dashboard was built using Microsoft Excel for Data Cleaning and Transformation and Microsoft Power BI for Visualization and Business Intelligence Reporting.
 
 ---
 ## Objective
