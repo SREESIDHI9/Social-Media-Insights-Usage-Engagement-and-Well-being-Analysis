@@ -35,31 +35,30 @@ Created interactive dashboard with:
 
 ---
 ## Key Insights
-Users spending more than 5 hours/day showed lower productivity.
-Instagram and TikTok had highest engagement rates.
-Increased screen time correlated with higher stress levels.
-Younger age groups showed highest platform dependency.
+- Users spending more than 5 hours/day showed lower productivity.
+* Instagram and TikTok had highest engagement rates.
+- Increased screen time correlated with higher stress levels.
+* Younger age groups showed highest platform dependency.
 
 ---
 
 ## Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Modeling
-ETL Process
-DAX Formulas
-Power Query
-Data Visualization
-Dashboard Design
-Business Intelligence
-Analytical Thinking
+- Data Cleaning
+* Data Transformation
+- Data Modeling
+* ETL Process
+- DAX Formulas
+* Power Query
+- Data Visualization
+* Dashboard Design
+- Business Intelligence
+* Analytical Thinking
 
 ---
 ## Tools Used
 
-Microsoft Excel → Data Cleaning & Transformation
-Microsoft Power BI → Dashboard Creation
-GitHub → Project Documentation
+- Microsoft Excel → Data Cleaning & Transformation
+* Microsoft Power BI → Dashboard Creation
+- GitHub → Project Documentation
 ----
-- Data Visualization
-- Dashboard Building
+
