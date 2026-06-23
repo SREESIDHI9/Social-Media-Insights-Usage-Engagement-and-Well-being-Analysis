@@ -22,16 +22,11 @@ Created interactive dashboard with:
 
 - KPI Cards
 * Bar Charts
-
-Pie Charts
-
-Line Charts
-
-Slicers and Filters
-
-Drill Through Analysis
-
-Comparative Analysis Across Platforms
+- Pie Charts
+* Line Charts
+- Slicers and Filters
+* Drill Through Analysis
+- Comparative Analysis Across Platforms
 ---
 
 ## Dashboard Preview
