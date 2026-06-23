@@ -8,7 +8,7 @@ This project analyzes user behavior patterns across different social media platf
 The dashboard was built using Microsoft Excel for data cleaning and transformation and Microsoft Power BI for visualization and business intelligence reporting.
 
 ---
-##Objective
+## Objective
 
 To analyze the relationship between social media usage habits, engagement behavior, and mental health trends through interactive dashboards and actionable insights.
 
