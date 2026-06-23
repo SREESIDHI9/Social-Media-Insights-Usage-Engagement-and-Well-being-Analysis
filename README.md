@@ -6,6 +6,7 @@ Power BI Dashboard Analyzing Social Media Engagement, Usage Patterns and Mental 
 A Comprehensive Data Analytics Project designed to examine how social media usage influences user engagement patterns and mental health outcomes. By merging multiple datasets and building an interactive Power BI dashboard, the analysis uncovers correlations between screen time, platform preferences, engagement intensity, and mental health indicators, enabling data-driven insights into modern digital behavior.
 
 The dashboard was built using,
+
 Microsoft Excel for Data Cleaning and Transformation and Microsoft Power BI for Visualization and Business Intelligence Reporting.
 
 ---
